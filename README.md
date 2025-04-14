@@ -1,5 +1,4 @@
 # Sole_Analytics 
-# 👟 ShoeSales Analysis - Footwear Purchase Behavior Insights
 
 This project analyzes customer purchasing patterns within a shoe sales dataset. It explores how factors such as gender, size, and category affect buying decisions. By leveraging Python and data visualization tools, the notebook uncovers actionable insights for product placement and inventory planning.
 
