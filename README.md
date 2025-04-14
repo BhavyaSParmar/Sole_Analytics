@@ -95,7 +95,7 @@ The dataset includes transactional records with key attributes like:
 
 ## 🌟 Acknowledgments
 
-Grateful to peers and mentors who provided guidance during model development and visualization stages. 🙌
+Grateful to peers and mentors who provided guidance during model development and visualization stages. 
 
 ---
 
