@@ -95,12 +95,12 @@ The dataset includes transactional records with key attributes like:
 
 ## 🌟 Acknowledgments
 
-Special thanks to project mentors and peers who contributed valuable feedback and support throughout this analysis. 🙌
+Grateful to peers and mentors who provided guidance during model development and visualization stages. 🙌
 
 ---
 
 ## 📫 Contact
 
-Crafted with care by **Bhavya Parmar**  
-📬 Reach out for collaboration or feedback — and don’t forget to ⭐ the project if you found it useful!
+Created with ❤️ by **Bhavya Parmar**  
+📬 Drop a ⭐ on the repo if this helped or inspired you!
 
